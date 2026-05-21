@@ -1,3 +1,3 @@
-# github
-this is my first git repository
+# githubrepo
+this is my first git repository.
 Author- Nandini Dadhwal
